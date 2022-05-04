@@ -2,32 +2,6 @@ import java.util.Arrays;
 
 public class Main {
   public static void main(String[] args) {
-    
-  //   CommandScheduler scheduler = new CommandScheduler(); 
-
-  //   scheduler.start(); 
-
-
-  //   Climber c = new Climber(); 
-  //   Shooter s = new Shooter(); 
-
-
-  //   scheduler.scheduleCommand(new RunClimber(c, () -> 10)); 
-  //   scheduler.scheduleCommand(new ShootBall(s)); 
-
-  //   Thread.sleep(1000); 
-
-
-  //   System.out.println("Starting climber and shooter..."); 
-  //   c.start(); 
-  //   s.start(); 
-
-  //   Thread.sleep(1000); 
-
-  //   scheduler.stopThread(); 
-  //   c.stop(); 
-  //   s.stop(); 
-  // }
 
 System.out.println("First n primes: ");; 
     
