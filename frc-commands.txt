@@ -1,0 +1,8 @@
+Task: Get ready for school
+  Type: sequential
+  commands: 
+    wake up
+    brush teeth
+    get dressed
+    eat breakfast
+    (parallel) put on backpack, put on mask
